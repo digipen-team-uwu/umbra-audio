@@ -1,0 +1,37 @@
+{f704d596-79bb-4a42-9ed6-af24d439e246} bank:/Master
+{6f19f542-08c0-0600-189f-25da25cae4de} bank:/Master.strings
+{8fdd695d-a816-43e1-b28e-7b9c66fb4021} bank:/Music
+{2c4ffc2f-9b3f-4bfe-9a80-67420433752d} bank:/SFX
+{e6900feb-9af4-4362-9796-d726c44f17fc} bus:/
+{4ab420aa-9493-4e70-aa88-02e4e1e505f0} bus:/Reverb
+{e711ae72-f8e3-4796-bebe-b7c5acd0e0a7} event:/BGM/CaveAmbience
+{9da3049c-f5dd-40a9-8b21-f4cdc5707b32} event:/BGM/Level BGM
+{c067396e-88ac-417e-8f45-6fe1790cc5fb} event:/BGM/TitleScreen
+{9614cf6f-4cc2-47f0-913e-7d0ac4e2998f} event:/Enemy SFX/RatDistract
+{9e2cf360-86a8-49fe-8148-632b8adf1bcf} event:/Enemy SFX/RatFootStep
+{5747bc09-5c06-41f2-99ea-1ddfa7f36428} event:/Enemy SFX/RatFootStepLoop
+{cf8b6947-c0df-4b79-b445-825c1e8a7f09} event:/Enemy SFX/RatSqueakIdle
+{9219b61d-024e-4a3f-96a5-80fc52388aff} event:/Level SFX/BoxLand
+{0726e913-fe27-4669-96a3-6abfdcb5dd75} event:/Level SFX/BoxPush
+{53aa6df5-5e01-490d-9a3a-bd76622f8c9e} event:/Level SFX/CageLand
+{ec599762-3c7e-4e76-a57e-ed5495758a5b} event:/Level SFX/CagePush
+{d7a7ff89-4961-46c3-a2a6-6070f3454edf} event:/Level SFX/KeyGetLarge
+{c5558625-581b-4e2c-93fe-86a72fb1d2c0} event:/Level SFX/KeyGetSmall
+{cc883be2-0e59-432f-889c-2ea621640d9d} event:/Level SFX/MinecartPush
+{fddff397-1a02-46ff-833e-895afccb87fe} event:/Level SFX/ShroomBounce
+{9e0d281c-18fc-42dd-b9d5-832bea24a5c4} event:/Level SFX/SlideShroomKick
+{bab14a43-5222-4a81-806b-f721da70ea48} event:/Level SFX/SlideShroomLock
+{4cd4f5be-4318-4c23-9464-918578268c2f} event:/Player SFX/Firefly SFX/FireflyBounce
+{f3bf4582-4f28-46b8-b9bd-1d6758f1ef76} event:/Player SFX/Firefly SFX/FireflyIdle
+{921659df-67af-4609-8b09-1849d3001a9d} event:/Player SFX/Firefly SFX/FireflyRegen
+{73e9ff72-2031-4e54-8952-765b683650ee} event:/Player SFX/Firefly SFX/FireflySend3D
+{a4e3630b-ea6d-4be9-957c-ffaabae289db} event:/Player SFX/Firefly SFX/FireflyShimmer
+{adceaa96-6083-492c-a583-6f186c68e2f8} event:/Player SFX/JumpLand
+{2ab8ba84-bfc2-41a5-807d-02a9091a7c72} event:/Player SFX/JumpUp
+{d8ff2307-2075-4ed5-ba32-9df18fb832c6} event:/Player SFX/PlayerFootstep
+{435c61a9-4cf6-4929-9ede-4c04b912bfe9} event:/Player SFX/PlayerFootstepLoop
+{e6603a67-e982-45d6-8972-1af523482019} event:/UI SFX/CameraPan
+{cb8ec7b1-b1ee-47e6-99a4-e62c4fdeab5f} event:/UI SFX/MenuHighlight
+{0975b845-54f8-4ea1-9066-69f42581a2c2} event:/UI SFX/MenuSelect
+{d49c9613-3e4a-4132-9db5-a4141aa724ea} parameter:/Offscreen
+{f23f40fc-952e-4df5-b63a-b7e9771bd728} parameter:/Surface Type

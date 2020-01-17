@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{5661f7c0-97f8-41d7-a56d-2b7ca1d2b508}">
+		<property name="assetPath">
+			<value>MineCartPush.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.282</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{349fcf45-8c9c-4aee-802e-0bc7e35227f5}</destination>
+		</relationship>
+	</object>
+</objects>

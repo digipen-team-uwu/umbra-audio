@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{6eba3fce-3d10-4432-92fd-483f87d96bb6}">
+		<property name="name">
+			<value>Offscreen</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a30f1753-a031-4156-96ed-3eb049f73df4}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d49c9613-3e4a-4132-9db5-a4141aa724ea}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d49c9613-3e4a-4132-9db5-a4141aa724ea}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

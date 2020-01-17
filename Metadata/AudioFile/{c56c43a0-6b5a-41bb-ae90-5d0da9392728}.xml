@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{c56c43a0-6b5a-41bb-ae90-5d0da9392728}">
+		<property name="assetPath">
+			<value>BoxPushStop.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3593333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{349fcf45-8c9c-4aee-802e-0bc7e35227f5}</destination>
+		</relationship>
+	</object>
+</objects>

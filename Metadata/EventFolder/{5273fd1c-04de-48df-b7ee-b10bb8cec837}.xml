@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EventFolder" id="{5273fd1c-04de-48df-b7ee-b10bb8cec837}">
+		<property name="name">
+			<value>Firefly SFX</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a2ca403e-d176-4675-bdec-880504331fe7}</destination>
+		</relationship>
+	</object>
+</objects>

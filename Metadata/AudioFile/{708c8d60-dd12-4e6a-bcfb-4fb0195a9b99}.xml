@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{708c8d60-dd12-4e6a-bcfb-4fb0195a9b99}">
+		<property name="assetPath">
+			<value>BoxPush_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0899999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{349fcf45-8c9c-4aee-802e-0bc7e35227f5}</destination>
+		</relationship>
+	</object>
+</objects>
